@@ -18,7 +18,7 @@ function Component({ className }: AstroportGuideBannerProps) {
   return (
     <div className={className}>
       <article>
-        Anchor protocol has migrated to use Astroport and new LP token staking
+        Standard Bank has migrated to use Astroport and new LP token staking
         contracts.
         <br />
         To use Astroport, users should go through a one-time process to migrate

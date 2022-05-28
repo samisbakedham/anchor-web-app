@@ -53,7 +53,7 @@ function BetterYieldBase({ className }: BetterYieldProps) {
     >
       <article>
         <h2>
-          Anchor
+          Standard Bank
           <br />
           offers
           <br />
